@@ -1,0 +1,28 @@
+E:\Programming\C#\uni_course\1_hello-world\bin\Debug\net9.0\1_hello-world.exe
+E:\Programming\C#\uni_course\1_hello-world\bin\Debug\net9.0\1_hello-world.deps.json
+E:\Programming\C#\uni_course\1_hello-world\bin\Debug\net9.0\1_hello-world.runtimeconfig.json
+E:\Programming\C#\uni_course\1_hello-world\bin\Debug\net9.0\1_hello-world.dll
+E:\Programming\C#\uni_course\1_hello-world\bin\Debug\net9.0\1_hello-world.pdb
+E:\Programming\C#\uni_course\1_hello-world\obj\Debug\net9.0\1_hello-world.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#\uni_course\1_hello-world\obj\Debug\net9.0\1_hello-world.AssemblyInfoInputs.cache
+E:\Programming\C#\uni_course\1_hello-world\obj\Debug\net9.0\1_hello-world.AssemblyInfo.cs
+E:\Programming\C#\uni_course\1_hello-world\obj\Debug\net9.0\1_hello-world.csproj.CoreCompileInputs.cache
+E:\Programming\C#\uni_course\1_hello-world\obj\Debug\net9.0\1_hello-world.dll
+E:\Programming\C#\uni_course\1_hello-world\obj\Debug\net9.0\refint\1_hello-world.dll
+E:\Programming\C#\uni_course\1_hello-world\obj\Debug\net9.0\1_hello-world.pdb
+E:\Programming\C#\uni_course\1_hello-world\obj\Debug\net9.0\1_hello-world.genruntimeconfig.cache
+E:\Programming\C#\uni_course\1_hello-world\obj\Debug\net9.0\ref\1_hello-world.dll
+E:\Programming\C#\Uni Course\1_basic-introduction-to-C#\1_hello-world\bin\Debug\net9.0\1_hello-world.exe
+E:\Programming\C#\Uni Course\1_basic-introduction-to-C#\1_hello-world\bin\Debug\net9.0\1_hello-world.deps.json
+E:\Programming\C#\Uni Course\1_basic-introduction-to-C#\1_hello-world\bin\Debug\net9.0\1_hello-world.runtimeconfig.json
+E:\Programming\C#\Uni Course\1_basic-introduction-to-C#\1_hello-world\bin\Debug\net9.0\1_hello-world.dll
+E:\Programming\C#\Uni Course\1_basic-introduction-to-C#\1_hello-world\bin\Debug\net9.0\1_hello-world.pdb
+E:\Programming\C#\Uni Course\1_basic-introduction-to-C#\1_hello-world\obj\Debug\net9.0\1_hello-world.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#\Uni Course\1_basic-introduction-to-C#\1_hello-world\obj\Debug\net9.0\1_hello-world.AssemblyInfoInputs.cache
+E:\Programming\C#\Uni Course\1_basic-introduction-to-C#\1_hello-world\obj\Debug\net9.0\1_hello-world.AssemblyInfo.cs
+E:\Programming\C#\Uni Course\1_basic-introduction-to-C#\1_hello-world\obj\Debug\net9.0\1_hello-world.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Uni Course\1_basic-introduction-to-C#\1_hello-world\obj\Debug\net9.0\1_hello-world.dll
+E:\Programming\C#\Uni Course\1_basic-introduction-to-C#\1_hello-world\obj\Debug\net9.0\refint\1_hello-world.dll
+E:\Programming\C#\Uni Course\1_basic-introduction-to-C#\1_hello-world\obj\Debug\net9.0\1_hello-world.pdb
+E:\Programming\C#\Uni Course\1_basic-introduction-to-C#\1_hello-world\obj\Debug\net9.0\1_hello-world.genruntimeconfig.cache
+E:\Programming\C#\Uni Course\1_basic-introduction-to-C#\1_hello-world\obj\Debug\net9.0\ref\1_hello-world.dll

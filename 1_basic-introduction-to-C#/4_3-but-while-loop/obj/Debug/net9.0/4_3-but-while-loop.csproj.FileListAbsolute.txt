@@ -1,0 +1,14 @@
+E:\Programming\C#\uni_course\4_3-but-while-loop\bin\Debug\net9.0\4_3-but-while-loop.exe
+E:\Programming\C#\uni_course\4_3-but-while-loop\bin\Debug\net9.0\4_3-but-while-loop.deps.json
+E:\Programming\C#\uni_course\4_3-but-while-loop\bin\Debug\net9.0\4_3-but-while-loop.runtimeconfig.json
+E:\Programming\C#\uni_course\4_3-but-while-loop\bin\Debug\net9.0\4_3-but-while-loop.dll
+E:\Programming\C#\uni_course\4_3-but-while-loop\bin\Debug\net9.0\4_3-but-while-loop.pdb
+E:\Programming\C#\uni_course\4_3-but-while-loop\obj\Debug\net9.0\4_3-but-while-loop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#\uni_course\4_3-but-while-loop\obj\Debug\net9.0\4_3-but-while-loop.AssemblyInfoInputs.cache
+E:\Programming\C#\uni_course\4_3-but-while-loop\obj\Debug\net9.0\4_3-but-while-loop.AssemblyInfo.cs
+E:\Programming\C#\uni_course\4_3-but-while-loop\obj\Debug\net9.0\4_3-but-while-loop.csproj.CoreCompileInputs.cache
+E:\Programming\C#\uni_course\4_3-but-while-loop\obj\Debug\net9.0\4_3-but-while-loop.dll
+E:\Programming\C#\uni_course\4_3-but-while-loop\obj\Debug\net9.0\refint\4_3-but-while-loop.dll
+E:\Programming\C#\uni_course\4_3-but-while-loop\obj\Debug\net9.0\4_3-but-while-loop.pdb
+E:\Programming\C#\uni_course\4_3-but-while-loop\obj\Debug\net9.0\4_3-but-while-loop.genruntimeconfig.cache
+E:\Programming\C#\uni_course\4_3-but-while-loop\obj\Debug\net9.0\ref\4_3-but-while-loop.dll

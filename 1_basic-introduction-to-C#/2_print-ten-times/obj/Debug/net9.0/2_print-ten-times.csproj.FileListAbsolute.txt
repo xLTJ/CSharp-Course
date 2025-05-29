@@ -1,0 +1,14 @@
+E:\Programming\C#\uni_course\2_print-ten-times\bin\Debug\net9.0\2_print-ten-times.exe
+E:\Programming\C#\uni_course\2_print-ten-times\bin\Debug\net9.0\2_print-ten-times.deps.json
+E:\Programming\C#\uni_course\2_print-ten-times\bin\Debug\net9.0\2_print-ten-times.runtimeconfig.json
+E:\Programming\C#\uni_course\2_print-ten-times\bin\Debug\net9.0\2_print-ten-times.dll
+E:\Programming\C#\uni_course\2_print-ten-times\bin\Debug\net9.0\2_print-ten-times.pdb
+E:\Programming\C#\uni_course\2_print-ten-times\obj\Debug\net9.0\2_print-ten-times.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#\uni_course\2_print-ten-times\obj\Debug\net9.0\2_print-ten-times.AssemblyInfoInputs.cache
+E:\Programming\C#\uni_course\2_print-ten-times\obj\Debug\net9.0\2_print-ten-times.AssemblyInfo.cs
+E:\Programming\C#\uni_course\2_print-ten-times\obj\Debug\net9.0\2_print-ten-times.csproj.CoreCompileInputs.cache
+E:\Programming\C#\uni_course\2_print-ten-times\obj\Debug\net9.0\2_print-ten-times.dll
+E:\Programming\C#\uni_course\2_print-ten-times\obj\Debug\net9.0\refint\2_print-ten-times.dll
+E:\Programming\C#\uni_course\2_print-ten-times\obj\Debug\net9.0\2_print-ten-times.pdb
+E:\Programming\C#\uni_course\2_print-ten-times\obj\Debug\net9.0\2_print-ten-times.genruntimeconfig.cache
+E:\Programming\C#\uni_course\2_print-ten-times\obj\Debug\net9.0\ref\2_print-ten-times.dll

@@ -1,0 +1,14 @@
+E:\Programming\C#\uni_course\6_guessing-game\bin\Debug\net9.0\6_guessing-game.exe
+E:\Programming\C#\uni_course\6_guessing-game\bin\Debug\net9.0\6_guessing-game.deps.json
+E:\Programming\C#\uni_course\6_guessing-game\bin\Debug\net9.0\6_guessing-game.runtimeconfig.json
+E:\Programming\C#\uni_course\6_guessing-game\bin\Debug\net9.0\6_guessing-game.dll
+E:\Programming\C#\uni_course\6_guessing-game\bin\Debug\net9.0\6_guessing-game.pdb
+E:\Programming\C#\uni_course\6_guessing-game\obj\Debug\net9.0\6_guessing-game.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#\uni_course\6_guessing-game\obj\Debug\net9.0\6_guessing-game.AssemblyInfoInputs.cache
+E:\Programming\C#\uni_course\6_guessing-game\obj\Debug\net9.0\6_guessing-game.AssemblyInfo.cs
+E:\Programming\C#\uni_course\6_guessing-game\obj\Debug\net9.0\6_guessing-game.csproj.CoreCompileInputs.cache
+E:\Programming\C#\uni_course\6_guessing-game\obj\Debug\net9.0\6_guessing-game.dll
+E:\Programming\C#\uni_course\6_guessing-game\obj\Debug\net9.0\refint\6_guessing-game.dll
+E:\Programming\C#\uni_course\6_guessing-game\obj\Debug\net9.0\6_guessing-game.pdb
+E:\Programming\C#\uni_course\6_guessing-game\obj\Debug\net9.0\6_guessing-game.genruntimeconfig.cache
+E:\Programming\C#\uni_course\6_guessing-game\obj\Debug\net9.0\ref\6_guessing-game.dll

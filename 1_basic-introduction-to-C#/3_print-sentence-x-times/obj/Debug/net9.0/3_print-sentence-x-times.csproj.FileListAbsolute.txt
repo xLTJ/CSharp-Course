@@ -1,0 +1,14 @@
+E:\Programming\C#\uni_course\3_print-sentence-x-times\bin\Debug\net9.0\3_print-sentence-x-times.exe
+E:\Programming\C#\uni_course\3_print-sentence-x-times\bin\Debug\net9.0\3_print-sentence-x-times.deps.json
+E:\Programming\C#\uni_course\3_print-sentence-x-times\bin\Debug\net9.0\3_print-sentence-x-times.runtimeconfig.json
+E:\Programming\C#\uni_course\3_print-sentence-x-times\bin\Debug\net9.0\3_print-sentence-x-times.dll
+E:\Programming\C#\uni_course\3_print-sentence-x-times\bin\Debug\net9.0\3_print-sentence-x-times.pdb
+E:\Programming\C#\uni_course\3_print-sentence-x-times\obj\Debug\net9.0\3_print-sentence-x-times.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#\uni_course\3_print-sentence-x-times\obj\Debug\net9.0\3_print-sentence-x-times.AssemblyInfoInputs.cache
+E:\Programming\C#\uni_course\3_print-sentence-x-times\obj\Debug\net9.0\3_print-sentence-x-times.AssemblyInfo.cs
+E:\Programming\C#\uni_course\3_print-sentence-x-times\obj\Debug\net9.0\3_print-sentence-x-times.csproj.CoreCompileInputs.cache
+E:\Programming\C#\uni_course\3_print-sentence-x-times\obj\Debug\net9.0\3_print-sentence-x-times.dll
+E:\Programming\C#\uni_course\3_print-sentence-x-times\obj\Debug\net9.0\refint\3_print-sentence-x-times.dll
+E:\Programming\C#\uni_course\3_print-sentence-x-times\obj\Debug\net9.0\3_print-sentence-x-times.pdb
+E:\Programming\C#\uni_course\3_print-sentence-x-times\obj\Debug\net9.0\3_print-sentence-x-times.genruntimeconfig.cache
+E:\Programming\C#\uni_course\3_print-sentence-x-times\obj\Debug\net9.0\ref\3_print-sentence-x-times.dll

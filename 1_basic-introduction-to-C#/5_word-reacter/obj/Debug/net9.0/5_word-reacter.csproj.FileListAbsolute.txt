@@ -1,0 +1,14 @@
+E:\Programming\C#\uni_course\5_word-reacter\bin\Debug\net9.0\5_word-reacter.exe
+E:\Programming\C#\uni_course\5_word-reacter\bin\Debug\net9.0\5_word-reacter.deps.json
+E:\Programming\C#\uni_course\5_word-reacter\bin\Debug\net9.0\5_word-reacter.runtimeconfig.json
+E:\Programming\C#\uni_course\5_word-reacter\bin\Debug\net9.0\5_word-reacter.dll
+E:\Programming\C#\uni_course\5_word-reacter\bin\Debug\net9.0\5_word-reacter.pdb
+E:\Programming\C#\uni_course\5_word-reacter\obj\Debug\net9.0\5_word-reacter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#\uni_course\5_word-reacter\obj\Debug\net9.0\5_word-reacter.AssemblyInfoInputs.cache
+E:\Programming\C#\uni_course\5_word-reacter\obj\Debug\net9.0\5_word-reacter.AssemblyInfo.cs
+E:\Programming\C#\uni_course\5_word-reacter\obj\Debug\net9.0\5_word-reacter.csproj.CoreCompileInputs.cache
+E:\Programming\C#\uni_course\5_word-reacter\obj\Debug\net9.0\5_word-reacter.dll
+E:\Programming\C#\uni_course\5_word-reacter\obj\Debug\net9.0\refint\5_word-reacter.dll
+E:\Programming\C#\uni_course\5_word-reacter\obj\Debug\net9.0\5_word-reacter.pdb
+E:\Programming\C#\uni_course\5_word-reacter\obj\Debug\net9.0\5_word-reacter.genruntimeconfig.cache
+E:\Programming\C#\uni_course\5_word-reacter\obj\Debug\net9.0\ref\5_word-reacter.dll

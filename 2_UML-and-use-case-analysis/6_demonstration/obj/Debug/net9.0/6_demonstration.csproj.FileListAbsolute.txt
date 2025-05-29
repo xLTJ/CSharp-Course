@@ -1,0 +1,14 @@
+E:\Programming\C#\ 2_UML-and-use-case-analysis\6_demonstration\bin\Debug\net9.0\6_demonstration.exe
+E:\Programming\C#\ 2_UML-and-use-case-analysis\6_demonstration\bin\Debug\net9.0\6_demonstration.deps.json
+E:\Programming\C#\ 2_UML-and-use-case-analysis\6_demonstration\bin\Debug\net9.0\6_demonstration.runtimeconfig.json
+E:\Programming\C#\ 2_UML-and-use-case-analysis\6_demonstration\bin\Debug\net9.0\6_demonstration.dll
+E:\Programming\C#\ 2_UML-and-use-case-analysis\6_demonstration\bin\Debug\net9.0\6_demonstration.pdb
+E:\Programming\C#\ 2_UML-and-use-case-analysis\6_demonstration\obj\Debug\net9.0\6_demonstration.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#\ 2_UML-and-use-case-analysis\6_demonstration\obj\Debug\net9.0\6_demonstration.AssemblyInfoInputs.cache
+E:\Programming\C#\ 2_UML-and-use-case-analysis\6_demonstration\obj\Debug\net9.0\6_demonstration.AssemblyInfo.cs
+E:\Programming\C#\ 2_UML-and-use-case-analysis\6_demonstration\obj\Debug\net9.0\6_demonstration.csproj.CoreCompileInputs.cache
+E:\Programming\C#\ 2_UML-and-use-case-analysis\6_demonstration\obj\Debug\net9.0\6_demonstration.dll
+E:\Programming\C#\ 2_UML-and-use-case-analysis\6_demonstration\obj\Debug\net9.0\refint\6_demonstration.dll
+E:\Programming\C#\ 2_UML-and-use-case-analysis\6_demonstration\obj\Debug\net9.0\6_demonstration.pdb
+E:\Programming\C#\ 2_UML-and-use-case-analysis\6_demonstration\obj\Debug\net9.0\6_demonstration.genruntimeconfig.cache
+E:\Programming\C#\ 2_UML-and-use-case-analysis\6_demonstration\obj\Debug\net9.0\ref\6_demonstration.dll

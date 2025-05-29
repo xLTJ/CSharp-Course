@@ -1,0 +1,5 @@
+- **Garbage-level-monitoring -> Pathfinding**: Garbage-level-monitoring tells pathfinding module when the garbage level is full, as the robot needs to move to the docking station now
+- **Pathfinding -> Movement**: Pathfinding module tells movement module where to go
+- **Pathfinding <- Obstacle-detection**: Obstacle-detection is used by pathfinding to figure out what path to make
+- **Pathfinding <- Garbage-detection**: Garbage-detection is used by pathfinding to figure out what destination to move to
+- **Movement-control + Pathfinding <- Location-tracker**: Location-tracker is used by pathfinding and movement module so they know where the robot is
