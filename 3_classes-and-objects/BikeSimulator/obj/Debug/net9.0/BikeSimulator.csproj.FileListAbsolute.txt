@@ -1,0 +1,15 @@
+E:\Programming\C#\Uni Course\3_classes-and-objects\BikeSimulator\bin\Debug\net9.0\BikeSimulator.exe
+E:\Programming\C#\Uni Course\3_classes-and-objects\BikeSimulator\bin\Debug\net9.0\BikeSimulator.deps.json
+E:\Programming\C#\Uni Course\3_classes-and-objects\BikeSimulator\bin\Debug\net9.0\BikeSimulator.runtimeconfig.json
+E:\Programming\C#\Uni Course\3_classes-and-objects\BikeSimulator\bin\Debug\net9.0\BikeSimulator.dll
+E:\Programming\C#\Uni Course\3_classes-and-objects\BikeSimulator\bin\Debug\net9.0\BikeSimulator.pdb
+E:\Programming\C#\Uni Course\3_classes-and-objects\BikeSimulator\obj\Debug\net9.0\BikeSimulator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#\Uni Course\3_classes-and-objects\BikeSimulator\obj\Debug\net9.0\BikeSimulator.AssemblyInfoInputs.cache
+E:\Programming\C#\Uni Course\3_classes-and-objects\BikeSimulator\obj\Debug\net9.0\BikeSimulator.AssemblyInfo.cs
+E:\Programming\C#\Uni Course\3_classes-and-objects\BikeSimulator\obj\Debug\net9.0\BikeSimulator.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Uni Course\3_classes-and-objects\BikeSimulator\obj\Debug\net9.0\BikeSimulator.sourcelink.json
+E:\Programming\C#\Uni Course\3_classes-and-objects\BikeSimulator\obj\Debug\net9.0\BikeSimulator.dll
+E:\Programming\C#\Uni Course\3_classes-and-objects\BikeSimulator\obj\Debug\net9.0\refint\BikeSimulator.dll
+E:\Programming\C#\Uni Course\3_classes-and-objects\BikeSimulator\obj\Debug\net9.0\BikeSimulator.pdb
+E:\Programming\C#\Uni Course\3_classes-and-objects\BikeSimulator\obj\Debug\net9.0\BikeSimulator.genruntimeconfig.cache
+E:\Programming\C#\Uni Course\3_classes-and-objects\BikeSimulator\obj\Debug\net9.0\ref\BikeSimulator.dll

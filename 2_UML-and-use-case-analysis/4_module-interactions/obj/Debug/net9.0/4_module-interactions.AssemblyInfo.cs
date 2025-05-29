@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("4_module-interactions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd5ae4c21805d857dc70a85062161e4c6eb41c21")]
 [assembly: System.Reflection.AssemblyProductAttribute("4_module-interactions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("4_module-interactions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
