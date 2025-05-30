@@ -1,0 +1,90 @@
+classDiagram
+    class Vehicle {
+        <<abstract>>
+        -Random Rand$
+        +string Model
+        +string Color
+        +int Year
+        #int MaxSpeed*
+        #int MaxEnergy*
+        #int AccelerateSpeedIncrement*
+        #int DecelerateSpeedDecrement*
+        #int CoastingSpeedDecrement*
+        #int EnergyConsumptionRate*
+        +int CurrentSpeed
+        +int DistanceTraveled
+        +bool IsMoving
+        +bool IsOperational
+        +bool IsEnabled
+        +int Turn
+        +int EnergyLevel
+        +Enable() void
+        +Disable() void
+        +Accelerate() bool
+        +Decelerate() bool
+        +Coast() void
+        +GetStatus() void
+        +AccelerateToMax() void
+        +Stop() void
+        #CanAccelerate() bool
+        #GetStats() string
+        #GetVehicleSpecificStatus() void
+        #QuickAction() void
+        #MediumAction() void
+        #LongAction() void
+    }
+
+    class BoringCar {
+        #int MaxSpeed
+        #int MaxEnergy
+        #int AccelerateSpeedIncrement
+        #int DecelerateSpeedDecrement
+        #int CoastingSpeedDecrement
+        #int EnergyConsumptionRate
+        +Honk() void
+    }
+
+    class Bicycle {
+        #int MaxSpeed
+        #int MaxEnergy
+        #int AccelerateSpeedIncrement
+        #int DecelerateSpeedDecrement
+        #int CoastingSpeedDecrement
+        #int EnergyConsumptionRate
+        +bool IsEnabled
+        +int CurrentGear
+        -int MaxGear$
+        +Enable() void
+        +Disable() void
+        +ShiftUp() void
+        +ShiftDown() void
+        +Accelerate() bool
+        #GetVehicleSpecificStatus() void
+        -_gearSpeedMultiplier() double
+        -_gearEnergyMultiplier() double
+    }
+
+    class Supercar {
+        #int MaxSpeed
+        #int MaxEnergy
+        #int AccelerateSpeedIncrement
+        #int DecelerateSpeedDecrement
+        #int CoastingSpeedDecrement
+        #int EnergyConsumptionRate
+        +SuperBoost() void
+    }
+
+    class Truck {
+        #int MaxSpeed
+        #int MaxEnergy
+        #int AccelerateSpeedIncrement
+        #int DecelerateSpeedDecrement
+        #int CoastingSpeedDecrement
+        #int EnergyConsumptionRate
+    }
+
+%% Inheritance relationships
+    Vehicle <|-- BoringCar : inherits
+    Vehicle <|-- Bicycle : inherits
+    Vehicle <|-- Supercar : inherits
+    Vehicle <|-- Truck : inherits

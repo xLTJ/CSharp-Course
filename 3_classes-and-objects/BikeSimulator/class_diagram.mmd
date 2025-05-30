@@ -1,0 +1,89 @@
+classDiagram
+    class Bicycle {
+        -double Speed
+        -DateTime PedalCooldownExpire
+        -DateTime BrakeCooldownExpire
+        -bool IsBroken
+        -Pedals _pedals
+        -Gears _gears
+        -Light _frontLight
+        -Light _rearLight
+        -Wheel _frontWheel
+        -Wheel _rearWheel
+        -Brake _frontBrake
+        -Brake _rearBrake
+        +Bicycle(int startGear)
+        +int GetCurrentGear()
+        +double GetOptimalSpeed()
+        +void StepPedal()
+        +void GearShiftUp()
+        +void GearShiftDown()
+        +void Brake(bool brakeFront, bool brakeRear)
+        +void PunctureFrontTire()
+        +void PunctureRearTire()
+        +void FixFrontTire()
+        +void FixRearTire()
+        +void RemoveFrontTire()
+        +void RemoveRearTire()
+        +void AttachFrontTire()
+        +void AttachRearTire()
+        +void ToggleFrontLight()
+        +void ToggleRearLight()
+        +bool IsBikeRidable()
+        -double _calculatePedalCooldown()
+    }
+
+    class Pedals {
+        +double Step(int currentGear, double currentSpeed)
+    }
+
+    class Gears {
+        -int CurrentGear
+        -int _maxGear
+        +Gears(int maxGear, int startGear)
+        +void ShiftUp()
+        +void ShiftDown()
+    }
+
+    class Light {
+        -bool IsTurnedOn
+        -string Name
+        +Light(string name)
+        +void ToggleLight()
+    }
+
+    class Wheel {
+        -string Name
+        -bool IsAttachedToBike
+        -Tire _tire
+        +Wheel(string name)
+        +void RemoveWheel()
+        +void AttachWheel()
+        +void FixTire()
+        +void PunctureTire()
+        +bool HasHoleInTire()
+    }
+
+    class Tire {
+        -bool HasHole
+        -string Name
+        +Tire(string name)
+        +void FixHole()
+        +void PunctureTire()
+    }
+
+    class Brake {
+        -static Random Rand
+        -double _condition
+        -string Name
+        +Brake(string name)
+        +double Use(double speed)
+    }
+
+%% Composition relationships
+    Bicycle *-- Pedals : contains
+    Bicycle *-- Gears : contains
+    Bicycle *-- Light : contains 2
+    Bicycle *-- Wheel : contains 2
+    Bicycle *-- Brake : contains 2
+    Wheel *-- Tire : contains
