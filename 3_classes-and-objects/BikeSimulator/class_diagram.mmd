@@ -80,10 +80,10 @@ classDiagram
         +double Use(double speed)
     }
 
-%% Composition relationships
-    Bicycle *-- Pedals : contains
-    Bicycle *-- Gears : contains
-    Bicycle *-- Light : contains 2
-    Bicycle *-- Wheel : contains 2
-    Bicycle *-- Brake : contains 2
-    Wheel *-- Tire : contains
+%% Composition relationships with cardinality
+    Bicycle "1" *-- "1" Pedals : contains
+    Bicycle "1" *-- "1" Gears : contains
+    Bicycle "1" *-- "2" Light : contains
+    Bicycle "1" *-- "2" Wheel : contains
+    Bicycle "1" *-- "2" Brake : contains
+    Wheel "1" *-- "1" Tire : contains

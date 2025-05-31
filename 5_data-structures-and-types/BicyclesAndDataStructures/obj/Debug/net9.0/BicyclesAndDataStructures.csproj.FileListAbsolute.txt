@@ -1,0 +1,15 @@
+E:\Programming\C#\Uni Course\5_data-structures-and-types\BicyclesAndDataStructures\bin\Debug\net9.0\BicyclesAndDataStructures.exe
+E:\Programming\C#\Uni Course\5_data-structures-and-types\BicyclesAndDataStructures\bin\Debug\net9.0\BicyclesAndDataStructures.deps.json
+E:\Programming\C#\Uni Course\5_data-structures-and-types\BicyclesAndDataStructures\bin\Debug\net9.0\BicyclesAndDataStructures.runtimeconfig.json
+E:\Programming\C#\Uni Course\5_data-structures-and-types\BicyclesAndDataStructures\bin\Debug\net9.0\BicyclesAndDataStructures.dll
+E:\Programming\C#\Uni Course\5_data-structures-and-types\BicyclesAndDataStructures\bin\Debug\net9.0\BicyclesAndDataStructures.pdb
+E:\Programming\C#\Uni Course\5_data-structures-and-types\BicyclesAndDataStructures\obj\Debug\net9.0\BicyclesAndDataStructures.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#\Uni Course\5_data-structures-and-types\BicyclesAndDataStructures\obj\Debug\net9.0\BicyclesAndDataStructures.AssemblyInfoInputs.cache
+E:\Programming\C#\Uni Course\5_data-structures-and-types\BicyclesAndDataStructures\obj\Debug\net9.0\BicyclesAndDataStructures.AssemblyInfo.cs
+E:\Programming\C#\Uni Course\5_data-structures-and-types\BicyclesAndDataStructures\obj\Debug\net9.0\BicyclesAndDataStructures.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Uni Course\5_data-structures-and-types\BicyclesAndDataStructures\obj\Debug\net9.0\BicyclesAndDataStructures.sourcelink.json
+E:\Programming\C#\Uni Course\5_data-structures-and-types\BicyclesAndDataStructures\obj\Debug\net9.0\BicyclesAndDataStructures.dll
+E:\Programming\C#\Uni Course\5_data-structures-and-types\BicyclesAndDataStructures\obj\Debug\net9.0\refint\BicyclesAndDataStructures.dll
+E:\Programming\C#\Uni Course\5_data-structures-and-types\BicyclesAndDataStructures\obj\Debug\net9.0\BicyclesAndDataStructures.pdb
+E:\Programming\C#\Uni Course\5_data-structures-and-types\BicyclesAndDataStructures\obj\Debug\net9.0\BicyclesAndDataStructures.genruntimeconfig.cache
+E:\Programming\C#\Uni Course\5_data-structures-and-types\BicyclesAndDataStructures\obj\Debug\net9.0\ref\BicyclesAndDataStructures.dll
