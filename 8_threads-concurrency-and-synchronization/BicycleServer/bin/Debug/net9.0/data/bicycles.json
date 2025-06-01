@@ -1,0 +1,18 @@
+[
+  {
+    "model": "cool",
+    "color": "blue",
+    "year": 2000,
+    "maxSpeed": 29,
+    "maxEnergy": 40,
+    "energyConsumptionRate": 3
+  },
+  {
+    "model": "holyshit",
+    "color": "black",
+    "year": 2026,
+    "maxSpeed": 33,
+    "maxEnergy": 47,
+    "energyConsumptionRate": 2
+  }
+]

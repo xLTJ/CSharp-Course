@@ -1,0 +1,32 @@
+sequenceDiagram
+    participant User
+    participant UI/Console
+    participant BicycleListManager
+    participant BicycleList
+
+    User->>UI/Console: Select bicycle to remove
+    Note over User,UI/Console: (provide index)
+
+    UI/Console->>BicycleListManager: removeBicycle(index)
+
+    BicycleListManager->>BicycleList: TryRemoveBicycle(index)
+
+    Note over BicycleList: Lock acquired
+    BicycleList->>BicycleList: Check index bounds
+
+    alt Valid index
+        BicycleList->>BicycleList: _bicycleList.RemoveAt(index)
+        BicycleList-->>BicycleListManager: Return true
+    else Invalid index
+        BicycleList-->>BicycleListManager: Return false
+    end
+
+    Note over BicycleList: Lock released
+
+    alt Success
+        BicycleListManager-->>UI/Console: Removal successful
+        UI/Console-->>User: Display success message
+    else Failure
+        BicycleListManager-->>UI/Console: Removal failed
+        UI/Console-->>User: Display error message
+    end

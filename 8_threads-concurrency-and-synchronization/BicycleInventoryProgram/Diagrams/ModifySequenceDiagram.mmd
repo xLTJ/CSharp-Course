@@ -1,0 +1,39 @@
+sequenceDiagram
+    participant User
+    participant UI/Console
+    participant BicycleListManager
+    participant BicycleList
+    participant Bicycle
+
+    User->>UI/Console: Select bicycle to modify
+    UI/Console->>User: Display current bicycle details
+    User->>UI/Console: Enter property to change + new value
+    Note over User,UI/Console: (index, property, newValue)
+
+    UI/Console->>UI/Console: Validate input
+    UI/Console->>BicycleListManager: updateBicycle(index, property, newValue)
+
+    BicycleListManager->>BicycleList: TryUpdateBicycle(index, property, newValue)
+
+    Note over BicycleList: Lock acquired
+    BicycleList->>BicycleList: Check index bounds
+    BicycleList->>Bicycle: Get bicycle at index
+
+    alt Valid property update
+        BicycleList->>Bicycle: Set new property value
+        Note over BicycleList,Bicycle: (model, color, year, maxSpeed, etc.)
+        Bicycle-->>BicycleList: Property updated
+        BicycleList-->>BicycleListManager: Return true
+    else Invalid input/property
+        BicycleList-->>BicycleListManager: Return false
+    end
+
+    Note over BicycleList: Lock released
+
+    alt Success
+        BicycleListManager-->>UI/Console: Update successful
+        UI/Console-->>User: Display success message
+    else Failure
+        BicycleListManager-->>UI/Console: Update failed
+        UI/Console-->>User: Display error message
+    end

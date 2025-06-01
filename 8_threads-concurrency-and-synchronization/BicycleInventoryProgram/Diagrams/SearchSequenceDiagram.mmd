@@ -1,0 +1,29 @@
+sequenceDiagram
+    participant User
+    participant UI/Console
+    participant BicycleListManager
+    participant BicycleList
+    participant Bicycle
+
+    User->>UI/Console: Enter search criteria
+    Note over User,UI/Console: (property, operator, query)
+
+    UI/Console->>BicycleListManager: processSearchRequest(property, operator, query)
+
+    BicycleListManager->>BicycleList: SearchBicycles(property, operator, query)
+
+    Note over BicycleList: Lock acquired for thread safety
+
+    loop For each bicycle in list
+        BicycleList->>BicycleList: BicycleMatches(bicycle, property, operator, query)
+        BicycleList->>BicycleList: GetValueFromBicycle(bicycle, property)
+        BicycleList->>Bicycle: Get property value (model/color/year/etc.)
+        Bicycle-->>BicycleList: Return property value
+        BicycleList->>BicycleList: Compare value with query using operator
+    end
+
+    Note over BicycleList: Lock released
+
+    BicycleList-->>BicycleListManager: Return List<(index, bicycle)>
+    BicycleListManager-->>UI/Console: Return search results
+    UI/Console-->>User: Display matching bicycles

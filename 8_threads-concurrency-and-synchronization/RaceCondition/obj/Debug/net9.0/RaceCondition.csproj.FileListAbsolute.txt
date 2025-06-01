@@ -1,0 +1,15 @@
+E:\Programming\C#\Uni Course\8_threads-concurrency-and-synchronization\RaceCondition\bin\Debug\net9.0\RaceCondition.exe
+E:\Programming\C#\Uni Course\8_threads-concurrency-and-synchronization\RaceCondition\bin\Debug\net9.0\RaceCondition.deps.json
+E:\Programming\C#\Uni Course\8_threads-concurrency-and-synchronization\RaceCondition\bin\Debug\net9.0\RaceCondition.runtimeconfig.json
+E:\Programming\C#\Uni Course\8_threads-concurrency-and-synchronization\RaceCondition\bin\Debug\net9.0\RaceCondition.dll
+E:\Programming\C#\Uni Course\8_threads-concurrency-and-synchronization\RaceCondition\bin\Debug\net9.0\RaceCondition.pdb
+E:\Programming\C#\Uni Course\8_threads-concurrency-and-synchronization\RaceCondition\obj\Debug\net9.0\RaceCondition.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#\Uni Course\8_threads-concurrency-and-synchronization\RaceCondition\obj\Debug\net9.0\RaceCondition.AssemblyInfoInputs.cache
+E:\Programming\C#\Uni Course\8_threads-concurrency-and-synchronization\RaceCondition\obj\Debug\net9.0\RaceCondition.AssemblyInfo.cs
+E:\Programming\C#\Uni Course\8_threads-concurrency-and-synchronization\RaceCondition\obj\Debug\net9.0\RaceCondition.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Uni Course\8_threads-concurrency-and-synchronization\RaceCondition\obj\Debug\net9.0\RaceCondition.sourcelink.json
+E:\Programming\C#\Uni Course\8_threads-concurrency-and-synchronization\RaceCondition\obj\Debug\net9.0\RaceCondition.dll
+E:\Programming\C#\Uni Course\8_threads-concurrency-and-synchronization\RaceCondition\obj\Debug\net9.0\refint\RaceCondition.dll
+E:\Programming\C#\Uni Course\8_threads-concurrency-and-synchronization\RaceCondition\obj\Debug\net9.0\RaceCondition.pdb
+E:\Programming\C#\Uni Course\8_threads-concurrency-and-synchronization\RaceCondition\obj\Debug\net9.0\RaceCondition.genruntimeconfig.cache
+E:\Programming\C#\Uni Course\8_threads-concurrency-and-synchronization\RaceCondition\obj\Debug\net9.0\ref\RaceCondition.dll

@@ -1,0 +1,44 @@
+E:\Programming\blazor-stuff\4_class-relations-and-diagrams\VehicleProject\bin\Debug\net9.0\VehicleProject.exe
+E:\Programming\blazor-stuff\4_class-relations-and-diagrams\VehicleProject\bin\Debug\net9.0\VehicleProject.deps.json
+E:\Programming\blazor-stuff\4_class-relations-and-diagrams\VehicleProject\bin\Debug\net9.0\VehicleProject.runtimeconfig.json
+E:\Programming\blazor-stuff\4_class-relations-and-diagrams\VehicleProject\bin\Debug\net9.0\VehicleProject.dll
+E:\Programming\blazor-stuff\4_class-relations-and-diagrams\VehicleProject\bin\Debug\net9.0\VehicleProject.pdb
+E:\Programming\blazor-stuff\4_class-relations-and-diagrams\VehicleProject\obj\Debug\net9.0\VehicleProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\blazor-stuff\4_class-relations-and-diagrams\VehicleProject\obj\Debug\net9.0\VehicleProject.AssemblyInfoInputs.cache
+E:\Programming\blazor-stuff\4_class-relations-and-diagrams\VehicleProject\obj\Debug\net9.0\VehicleProject.AssemblyInfo.cs
+E:\Programming\blazor-stuff\4_class-relations-and-diagrams\VehicleProject\obj\Debug\net9.0\VehicleProject.csproj.CoreCompileInputs.cache
+E:\Programming\blazor-stuff\4_class-relations-and-diagrams\VehicleProject\obj\Debug\net9.0\VehicleProject.dll
+E:\Programming\blazor-stuff\4_class-relations-and-diagrams\VehicleProject\obj\Debug\net9.0\refint\VehicleProject.dll
+E:\Programming\blazor-stuff\4_class-relations-and-diagrams\VehicleProject\obj\Debug\net9.0\VehicleProject.pdb
+E:\Programming\blazor-stuff\4_class-relations-and-diagrams\VehicleProject\obj\Debug\net9.0\VehicleProject.genruntimeconfig.cache
+E:\Programming\blazor-stuff\4_class-relations-and-diagrams\VehicleProject\obj\Debug\net9.0\ref\VehicleProject.dll
+E:\Programming\C#\Uni Course\7_lists-iterators-and-operators\VehicleProject\bin\Debug\net9.0\VehicleProject.exe
+E:\Programming\C#\Uni Course\7_lists-iterators-and-operators\VehicleProject\bin\Debug\net9.0\VehicleProject.deps.json
+E:\Programming\C#\Uni Course\7_lists-iterators-and-operators\VehicleProject\bin\Debug\net9.0\VehicleProject.runtimeconfig.json
+E:\Programming\C#\Uni Course\7_lists-iterators-and-operators\VehicleProject\bin\Debug\net9.0\VehicleProject.dll
+E:\Programming\C#\Uni Course\7_lists-iterators-and-operators\VehicleProject\bin\Debug\net9.0\VehicleProject.pdb
+E:\Programming\C#\Uni Course\7_lists-iterators-and-operators\VehicleProject\obj\Debug\net9.0\VehicleProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#\Uni Course\7_lists-iterators-and-operators\VehicleProject\obj\Debug\net9.0\VehicleProject.AssemblyInfoInputs.cache
+E:\Programming\C#\Uni Course\7_lists-iterators-and-operators\VehicleProject\obj\Debug\net9.0\VehicleProject.AssemblyInfo.cs
+E:\Programming\C#\Uni Course\7_lists-iterators-and-operators\VehicleProject\obj\Debug\net9.0\VehicleProject.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Uni Course\7_lists-iterators-and-operators\VehicleProject\obj\Debug\net9.0\VehicleProject.sourcelink.json
+E:\Programming\C#\Uni Course\7_lists-iterators-and-operators\VehicleProject\obj\Debug\net9.0\VehicleProject.dll
+E:\Programming\C#\Uni Course\7_lists-iterators-and-operators\VehicleProject\obj\Debug\net9.0\refint\VehicleProject.dll
+E:\Programming\C#\Uni Course\7_lists-iterators-and-operators\VehicleProject\obj\Debug\net9.0\VehicleProject.pdb
+E:\Programming\C#\Uni Course\7_lists-iterators-and-operators\VehicleProject\obj\Debug\net9.0\VehicleProject.genruntimeconfig.cache
+E:\Programming\C#\Uni Course\7_lists-iterators-and-operators\VehicleProject\obj\Debug\net9.0\ref\VehicleProject.dll
+E:\Programming\C#\Uni Course\8_threads-concurrency-and-synchronization\VehicleProject\bin\Debug\net9.0\VehicleProject.exe
+E:\Programming\C#\Uni Course\8_threads-concurrency-and-synchronization\VehicleProject\bin\Debug\net9.0\VehicleProject.deps.json
+E:\Programming\C#\Uni Course\8_threads-concurrency-and-synchronization\VehicleProject\bin\Debug\net9.0\VehicleProject.runtimeconfig.json
+E:\Programming\C#\Uni Course\8_threads-concurrency-and-synchronization\VehicleProject\bin\Debug\net9.0\VehicleProject.dll
+E:\Programming\C#\Uni Course\8_threads-concurrency-and-synchronization\VehicleProject\bin\Debug\net9.0\VehicleProject.pdb
+E:\Programming\C#\Uni Course\8_threads-concurrency-and-synchronization\VehicleProject\obj\Debug\net9.0\VehicleProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#\Uni Course\8_threads-concurrency-and-synchronization\VehicleProject\obj\Debug\net9.0\VehicleProject.AssemblyInfoInputs.cache
+E:\Programming\C#\Uni Course\8_threads-concurrency-and-synchronization\VehicleProject\obj\Debug\net9.0\VehicleProject.AssemblyInfo.cs
+E:\Programming\C#\Uni Course\8_threads-concurrency-and-synchronization\VehicleProject\obj\Debug\net9.0\VehicleProject.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Uni Course\8_threads-concurrency-and-synchronization\VehicleProject\obj\Debug\net9.0\VehicleProject.sourcelink.json
+E:\Programming\C#\Uni Course\8_threads-concurrency-and-synchronization\VehicleProject\obj\Debug\net9.0\VehicleProject.dll
+E:\Programming\C#\Uni Course\8_threads-concurrency-and-synchronization\VehicleProject\obj\Debug\net9.0\refint\VehicleProject.dll
+E:\Programming\C#\Uni Course\8_threads-concurrency-and-synchronization\VehicleProject\obj\Debug\net9.0\VehicleProject.pdb
+E:\Programming\C#\Uni Course\8_threads-concurrency-and-synchronization\VehicleProject\obj\Debug\net9.0\VehicleProject.genruntimeconfig.cache
+E:\Programming\C#\Uni Course\8_threads-concurrency-and-synchronization\VehicleProject\obj\Debug\net9.0\ref\VehicleProject.dll

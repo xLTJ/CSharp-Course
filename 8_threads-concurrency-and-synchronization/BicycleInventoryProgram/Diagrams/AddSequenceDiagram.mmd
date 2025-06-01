@@ -1,0 +1,25 @@
+sequenceDiagram
+    participant User
+    participant UI/Console
+    participant BicycleListManager
+    participant BicycleList
+    participant Bicycle
+
+    User->>UI/Console: Enter new bicycle details
+    Note over User,UI/Console: (model, color, year, maxSpeed, etc.)
+
+    UI/Console->>UI/Console: Validate input data
+    UI/Console->>BicycleListManager: addNewBicycle(bicycleData)
+
+    BicycleListManager->>Bicycle: new Bicycle(model, year, color)
+    Bicycle-->>BicycleListManager: Return bicycle instance
+
+    BicycleListManager->>BicycleList: AddBicycle(bicycle)
+
+    Note over BicycleList: Lock acquired
+    BicycleList->>BicycleList: _bicycleList.Add(bicycle)
+    Note over BicycleList: Lock released
+
+    BicycleList-->>BicycleListManager: Success
+    BicycleListManager-->>UI/Console: Bicycle added successfully
+    UI/Console-->>User: Display success message
