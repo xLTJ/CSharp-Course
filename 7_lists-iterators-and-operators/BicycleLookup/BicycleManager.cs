@@ -4,6 +4,24 @@ namespace BicycleLookup;
 
 public class BicycleManager
 {
+
+    public enum SearchProperty
+    {
+        Model,
+        Color,
+        Year,
+        MaxSpeed,
+        MaxEnergy,
+        EnergyConsumption,
+    }
+
+    public enum SearchOperator
+    {
+        EqualTo,
+        GreaterThan,
+        LessThan,
+    }
+
     private readonly List<Bicycle> _bicycleList = [];
 
     public List<Bicycle> GetBicycles()
@@ -16,6 +34,7 @@ public class BicycleManager
         _bicycleList.Add(bicycle);
     }
 
+    // -------------------------------------- sort functionality ---------------------------------------------------
     // uses IComparer once to show how it works
     public List<Bicycle> SortByMaxSpeed(bool descending = false)
     {
@@ -42,6 +61,59 @@ public class BicycleManager
         if (descending) return _bicycleList.OrderByDescending(bike => bike.Year).ToList();
         return _bicycleList.OrderBy(bike => bike.Year).ToList();
     }
+
+    // -------------------------------------- search functionality ---------------------------------------------------
+    public List<Bicycle> SearchBicycles(SearchProperty searchProperty, SearchOperator searchOperator, string query)
+    {
+        return _bicycleList
+            .Where(bicycle => BicycleMatches(bicycle, searchProperty, searchOperator, query))
+            .ToList();
+    }
+
+    private bool BicycleMatches(Bicycle bicycle, SearchProperty searchProperty, SearchOperator searchOperator, string query)
+    {
+        var value = GetValueFromBicycle(bicycle, searchProperty);
+        var shouldAdd = false;
+
+        switch (value)
+        {
+            case string stringValue:
+                shouldAdd = searchOperator switch
+                {
+                    SearchOperator.EqualTo => string.Equals(query, stringValue, StringComparison.CurrentCultureIgnoreCase),
+                    SearchOperator.GreaterThan => string.CompareOrdinal(stringValue, query) > 0,
+                    SearchOperator.LessThan => string.CompareOrdinal(stringValue, query) < 0,
+                    _ => false
+                };
+                break;
+
+            case int intValue:
+            {
+                if (!int.TryParse(query, out int queryValue)) return false;
+                shouldAdd = searchOperator switch
+                {
+                    SearchOperator.EqualTo => queryValue == intValue,
+                    SearchOperator.GreaterThan => intValue > queryValue,
+                    SearchOperator.LessThan => intValue < queryValue,
+                    _ => false,
+                };
+                break;
+            }
+        }
+
+        return shouldAdd;
+    }
+
+    private static object? GetValueFromBicycle(Bicycle bicycle, SearchProperty property) => property switch
+    {
+        SearchProperty.Model => bicycle.Model,
+        SearchProperty.Color => bicycle.Color,
+        SearchProperty.Year => bicycle.Year,
+        SearchProperty.MaxSpeed => bicycle.MaxSpeed,
+        SearchProperty.MaxEnergy => bicycle.MaxEnergy,
+        SearchProperty.EnergyConsumption => bicycle.EnergyConsumptionRate,
+        _ => null,
+    };
 }
 
 public class BicycleMaxSpeedComparer(bool descending) : IComparer<Bicycle>

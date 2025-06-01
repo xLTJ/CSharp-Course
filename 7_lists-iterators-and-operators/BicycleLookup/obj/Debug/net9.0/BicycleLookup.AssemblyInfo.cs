@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BicycleLookup")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+602d8084a19f873af1487e664be7ee487ef150d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e8e19e24f4708df09f955a83aa6db2ece525d76")]
 [assembly: System.Reflection.AssemblyProductAttribute("BicycleLookup")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BicycleLookup")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
